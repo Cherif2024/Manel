@@ -2,4 +2,4 @@
 # Tester le travail individuel
 ## creer branche 
 ## commit
-## pull request
+## update readme
